@@ -1,5 +1,5 @@
 ## Awesome-DL-Inference
-This is a paper list about DNN inference.
+This is a paper list about DL inference.
 
 ### DNN Inference
 [NSDI'17][UCB] [Clipper: A Low-Latency Online Prediction Serving System](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/crankshaw)  
