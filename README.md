@@ -21,7 +21,14 @@ This is a paper list about DL inference.
 [NSDI'23][UWaterloo] [SHEPHERD: Serving DNNs in the Wild](https://www.usenix.org/conference/nsdi23/presentation/zhang-hong)  
 [SIGCOMM'23][MIT] [Lightning: A Reconfigurable Photonic-Electronic SmartNIC for Fast and Energy-Efficient Inference](https://dl.acm.org/doi/10.1145/3603269.3604821)  
 [SIGCOMM'23][UVA] [AdaInf: Data Drift Adaptive Scheduling for Accurate and SLO-guaranteed Multiple-Model Inference Serving at Edge Servers](https://dl.acm.org/doi/10.1145/3603269.3604830)  
-[]
+[ATC'18][CMU] [Cavs: An Efficient Runtime System for Dynamic Neural Networks](https://www.usenix.org/conference/atc18/presentation/xu-shizen)  
+[ATC'18][MSR] [DeepCPU: Serving RNN-based Deep Learning Models 10x Faster](https://www.usenix.org/conference/atc18/presentation/zhang-minjia)  
+[ATC'19][Amazon] [Optimizing CNN Model Inference on CPUs](https://www.usenix.org/conference/atc19/presentation/liu-yizhi)  
+[ATC'22][SJTU] [DVABatch: Diversity-aware Multi-Entry Multi-Exit Batching for Efficient Processing of DNN Services on GPUs](https://www.usenix.org/conference/atc22/presentation/cui)  
+[ATC'22][PKU] [PetS: A Unified Framework for Parameter-Efficient Transformers Serving](https://www.usenix.org/conference/atc22/presentation/zhou-zhe)  
+[ATC'22][TJU] [Tetris: Memory-efficient Serverless Inference through Tensor Sharing](https://www.usenix.org/conference/atc22/presentation/li-jie)  
+[ATC'22][HKU] [SOTER: Guarding Black-box Inference for General Neural Networks at the Edge](https://www.usenix.org/conference/atc22/presentation/shen)  
+
 
 
 ### LLM Inference
