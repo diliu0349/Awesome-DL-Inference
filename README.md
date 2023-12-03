@@ -13,7 +13,15 @@ This is a paper list about DL inference.
 [OSDI'20][MPI] [Serving DNNs like Clockwork: Performance Predictability from the Bottom Up](https://www.usenix.org/conference/osdi20/presentation/gujarati)  
 [OSDI'22][SJTU] [Microsecond-scale Preemption for Concurrent GPU-accelerated DNN Inferences](https://www.usenix.org/conference/osdi22/presentation/han)  
 [OSDI'23][SJTU] [Optimizing Dynamic Neural Networks with Brainstorm](https://www.usenix.org/conference/osdi23/presentation/cui)  
-
+[SOSP'19][CMU] [Parity models: erasure-coded resilience for prediction serving systems](https://dl.acm.org/doi/10.1145/3341301.3359654)  
+[SOSP'23][UPenn] [Paella: Low-latency Model Serving with Software-defined GPU Scheduling](https://dl.acm.org/doi/10.1145/3600006.3613163)  
+[NSDI'21][Yale] [Mistify: Automating DNN Model Porting for On-Device Inference at the Edge](https://www.usenix.org/conference/nsdi21/presentation/guo)  
+[NSDI'21][UCB] [On the Use of ML for Blackbox System Performance Prediction](https://www.usenix.org/conference/nsdi21/presentation/fu)  
+[NSDI'22][UPenn] [Cocktail: A Multidimensional Optimization for Model Serving in Cloud](https://www.usenix.org/conference/nsdi22/presentation/gunasekaran)  
+[NSDI'23][UWaterloo] [SHEPHERD: Serving DNNs in the Wild](https://www.usenix.org/conference/nsdi23/presentation/zhang-hong)  
+[SIGCOMM'23][MIT] [Lightning: A Reconfigurable Photonic-Electronic SmartNIC for Fast and Energy-Efficient Inference](https://dl.acm.org/doi/10.1145/3603269.3604821)  
+[SIGCOMM'23][UVA] [AdaInf: Data Drift Adaptive Scheduling for Accurate and SLO-guaranteed Multiple-Model Inference Serving at Edge Servers](https://dl.acm.org/doi/10.1145/3603269.3604830)  
+[]
 
 
 ### LLM Inference
