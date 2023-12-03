@@ -9,6 +9,12 @@ This is a paper list about DL inference.
 [ATC'22][KAIST] [Serving Heterogeneous Machine Learning Models on Multi-GPU Servers with Spatio-Temporal Sharing](https://www.usenix.org/conference/atc22/presentation/choi-seungbeom)  
 [ATC'21][Stanford] [INFaaS: Automated Model-less Inference Serving](https://www.usenix.org/conference/atc21/presentation/romero)  
 
+[OSDI'18][SNU] [PRETZEL: Opening the Black Box of Machine Learning Prediction Serving Systems](https://www.usenix.org/conference/osdi18/presentation/lee)  
+[OSDI'20][MPI] [Serving DNNs like Clockwork: Performance Predictability from the Bottom Up](https://www.usenix.org/conference/osdi20/presentation/gujarati)  
+[OSDI'22][SJTU] [Microsecond-scale Preemption for Concurrent GPU-accelerated DNN Inferences](https://www.usenix.org/conference/osdi22/presentation/han)  
+[OSDI'23][SJTU] [Optimizing Dynamic Neural Networks with Brainstorm](https://www.usenix.org/conference/osdi23/presentation/cui)  
+
+
 
 ### LLM Inference
 [OSDI'22][SNU] [ORCA: A Distributed Serving System for Transformer-Based Generative Models](https://www.usenix.org/conference/osdi22/presentation/yu)   
