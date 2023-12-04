@@ -29,6 +29,7 @@ This is a paper list about DL inference.
 [ATC'22][TJU] [Tetris: Memory-efficient Serverless Inference through Tensor Sharing](https://www.usenix.org/conference/atc22/presentation/li-jie)  
 [ATC'22][HKU] [SOTER: Guarding Black-box Inference for General Neural Networks at the Edge](https://www.usenix.org/conference/atc22/presentation/shen)  
 
+[EuroSys'23][AU] [Fast and Efficient Model Serving Using Multi-GPUs with Direct-Host-Access](https://dl.acm.org/doi/10.1145/3552326.3567508)  
 
 
 ### LLM Inference
